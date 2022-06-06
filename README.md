@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Analisador de Numeros
+Projeto - Analisador de Números
 </h1>
  
  <p align="center">
