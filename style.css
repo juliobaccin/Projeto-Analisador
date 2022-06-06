@@ -235,7 +235,7 @@ footer p a:hover {
 @media(max-width:500px) {
     body {
         width: 100vw;
-        height: 50vh;
+        height: 80vh;
     }
 
     section {
