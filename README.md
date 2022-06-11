@@ -7,7 +7,7 @@ Projeto - Analisador de Números
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-AnalisadorDeNumeros/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Analisador/">aqui</a>
 </p>
 
 <div align="center">
